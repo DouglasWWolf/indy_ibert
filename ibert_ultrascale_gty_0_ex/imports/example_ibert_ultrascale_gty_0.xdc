@@ -26,15 +26,11 @@
 ##
 
 
-
 set_property -dict {PACKAGE_PIN AM12  IOSTANDARD LVCMOS18} [ get_ports qsfp_rst_l[0] ]
 set_property -dict {PACKAGE_PIN AR11  IOSTANDARD LVCMOS18} [ get_ports qsfp_rst_l[1] ]
 
 set_property -dict {PACKAGE_PIN AN12  IOSTANDARD LVCMOS18} [ get_ports qsfp_lp[0] ]
 set_property -dict {PACKAGE_PIN AM13  IOSTANDARD LVCMOS18} [ get_ports qsfp_lp[1] ]
-
-
-#
 
 
 create_clock -name D_CLK -period 5.0 [get_ports gty_sysclkp_i]
@@ -48,10 +44,6 @@ set_property C_ENABLE_CLK_DIVIDER true [get_debug_cores dbg_hub]
 
 
 
-
-
-
- 
 set_property PACKAGE_PIN AE29 [get_ports gty_refclk0p_i[0]]
 set_property PACKAGE_PIN AE30 [get_ports gty_refclk0n_i[0]]
 set_property PACKAGE_PIN AC29 [get_ports gty_refclk1p_i[0]]
@@ -71,13 +63,13 @@ set_property PACKAGE_PIN AA30 [get_ports gty_refclk1n_i[1]]
 
 
  
-create_clock -name gtrefclk0_0 -period 6.4 [get_ports gty_refclk0p_i[0]]
-create_clock -name gtrefclk1_0 -period 6.4 [get_ports gty_refclk1p_i[0]]
+create_clock -name gtrefclk0_0 -period 3.104 [get_ports gty_refclk0p_i[0]]
+create_clock -name gtrefclk1_0 -period 3.104 [get_ports gty_refclk1p_i[0]]
 set_clock_groups -group [get_clocks gtrefclk0_0 -include_generated_clocks] -asynchronous
 set_clock_groups -group [get_clocks gtrefclk1_0 -include_generated_clocks] -asynchronous
  
-create_clock -name gtrefclk0_1 -period 6.4 [get_ports gty_refclk0p_i[1]]
-create_clock -name gtrefclk1_1 -period 6.4 [get_ports gty_refclk1p_i[1]]
+create_clock -name gtrefclk0_1 -period 3.104 [get_ports gty_refclk0p_i[1]]
+create_clock -name gtrefclk1_1 -period 3.104 [get_ports gty_refclk1p_i[1]]
 set_clock_groups -group [get_clocks gtrefclk0_1 -include_generated_clocks] -asynchronous
 set_clock_groups -group [get_clocks gtrefclk1_1 -include_generated_clocks] -asynchronous
 ##

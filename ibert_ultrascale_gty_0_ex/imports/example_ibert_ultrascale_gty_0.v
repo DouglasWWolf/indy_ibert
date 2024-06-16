@@ -31,7 +31,6 @@
 `define C_GTY_REFCLKS_USED 2
 module example_ibert_ultrascale_gty_0
 (
-
   output[1:0] qsfp_rst_l,
   output[1:0] qsfp_lp,
 
@@ -47,7 +46,7 @@ module example_ibert_ultrascale_gty_0
   input  [`C_GTY_REFCLKS_USED-1:0]      gty_refclk1p_i,
   input  [`C_GTY_REFCLKS_USED-1:0]      gty_refclk1n_i
 );
-
+ 
   assign qsfp_rst_l = 2'b11;
   assign qsfp_lp    = 2'b00;
 

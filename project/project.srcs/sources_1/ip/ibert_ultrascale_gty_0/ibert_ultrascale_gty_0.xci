@@ -90,8 +90,8 @@
         <spirit:configurableElementValue spirit:referenceId="MODELPARAM_VALUE.C_ENABLE_DIFF_TERM">false</spirit:configurableElementValue>
         <spirit:configurableElementValue spirit:referenceId="MODELPARAM_VALUE.C_GT_CORRECT">&quot;1&quot;</spirit:configurableElementValue>
         <spirit:configurableElementValue spirit:referenceId="MODELPARAM_VALUE.C_GT_TYPE">GTYE4</spirit:configurableElementValue>
-        <spirit:configurableElementValue spirit:referenceId="MODELPARAM_VALUE.C_MAX_LINERATE_Q0">&quot;000000000000010111110111010111100111100001000000&quot;</spirit:configurableElementValue>
-        <spirit:configurableElementValue spirit:referenceId="MODELPARAM_VALUE.C_MAX_LINERATE_Q1">&quot;000000000000010111110111010111100111100001000000&quot;</spirit:configurableElementValue>
+        <spirit:configurableElementValue spirit:referenceId="MODELPARAM_VALUE.C_MAX_LINERATE_Q0">&quot;000000000000011000000000101011101010011111010000&quot;</spirit:configurableElementValue>
+        <spirit:configurableElementValue spirit:referenceId="MODELPARAM_VALUE.C_MAX_LINERATE_Q1">&quot;000000000000011000000000101011101010011111010000&quot;</spirit:configurableElementValue>
         <spirit:configurableElementValue spirit:referenceId="MODELPARAM_VALUE.C_MAX_LINERATE_Q10">&quot;000000000000000000000000000000000000000000000000&quot;</spirit:configurableElementValue>
         <spirit:configurableElementValue spirit:referenceId="MODELPARAM_VALUE.C_MAX_LINERATE_Q11">&quot;000000000000000000000000000000000000000000000000&quot;</spirit:configurableElementValue>
         <spirit:configurableElementValue spirit:referenceId="MODELPARAM_VALUE.C_MAX_LINERATE_Q12">&quot;000000000000000000000000000000000000000000000000&quot;</spirit:configurableElementValue>
@@ -126,8 +126,8 @@
         <spirit:configurableElementValue spirit:referenceId="MODELPARAM_VALUE.C_MAX_LINERATE_Q7">&quot;000000000000000000000000000000000000000000000000&quot;</spirit:configurableElementValue>
         <spirit:configurableElementValue spirit:referenceId="MODELPARAM_VALUE.C_MAX_LINERATE_Q8">&quot;000000000000000000000000000000000000000000000000&quot;</spirit:configurableElementValue>
         <spirit:configurableElementValue spirit:referenceId="MODELPARAM_VALUE.C_MAX_LINERATE_Q9">&quot;000000000000000000000000000000000000000000000000&quot;</spirit:configurableElementValue>
-        <spirit:configurableElementValue spirit:referenceId="MODELPARAM_VALUE.C_MAX_REFCLK_FREQ_Q0">&quot;00001001010100000010111110010000&quot;</spirit:configurableElementValue>
-        <spirit:configurableElementValue spirit:referenceId="MODELPARAM_VALUE.C_MAX_REFCLK_FREQ_Q1">&quot;00001001010100000010111110010000&quot;</spirit:configurableElementValue>
+        <spirit:configurableElementValue spirit:referenceId="MODELPARAM_VALUE.C_MAX_REFCLK_FREQ_Q0">&quot;00010011001101010110001000011001&quot;</spirit:configurableElementValue>
+        <spirit:configurableElementValue spirit:referenceId="MODELPARAM_VALUE.C_MAX_REFCLK_FREQ_Q1">&quot;00010011001101010110001000011001&quot;</spirit:configurableElementValue>
         <spirit:configurableElementValue spirit:referenceId="MODELPARAM_VALUE.C_MAX_REFCLK_FREQ_Q10">00000000000000000000000000000000</spirit:configurableElementValue>
         <spirit:configurableElementValue spirit:referenceId="MODELPARAM_VALUE.C_MAX_REFCLK_FREQ_Q11">00000000000000000000000000000000</spirit:configurableElementValue>
         <spirit:configurableElementValue spirit:referenceId="MODELPARAM_VALUE.C_MAX_REFCLK_FREQ_Q12">00000000000000000000000000000000</spirit:configurableElementValue>
@@ -317,14 +317,14 @@
         <spirit:configurableElementValue spirit:referenceId="MODELPARAM_VALUE.C_PROTOCOL_DATAWIDTH_1">80</spirit:configurableElementValue>
         <spirit:configurableElementValue spirit:referenceId="MODELPARAM_VALUE.C_PROTOCOL_DATAWIDTH_2">80</spirit:configurableElementValue>
         <spirit:configurableElementValue spirit:referenceId="MODELPARAM_VALUE.C_PROTOCOL_DATAWIDTH_3">80</spirit:configurableElementValue>
-        <spirit:configurableElementValue spirit:referenceId="MODELPARAM_VALUE.C_PROTOCOL_MAXLINERATE_1">25.625</spirit:configurableElementValue>
+        <spirit:configurableElementValue spirit:referenceId="MODELPARAM_VALUE.C_PROTOCOL_MAXLINERATE_1">25.78125</spirit:configurableElementValue>
         <spirit:configurableElementValue spirit:referenceId="MODELPARAM_VALUE.C_PROTOCOL_MAXLINERATE_2">5</spirit:configurableElementValue>
         <spirit:configurableElementValue spirit:referenceId="MODELPARAM_VALUE.C_PROTOCOL_MAXLINERATE_3">5</spirit:configurableElementValue>
         <spirit:configurableElementValue spirit:referenceId="MODELPARAM_VALUE.C_PROTOCOL_PLL_1">11</spirit:configurableElementValue>
         <spirit:configurableElementValue spirit:referenceId="MODELPARAM_VALUE.C_PROTOCOL_PLL_2">11</spirit:configurableElementValue>
         <spirit:configurableElementValue spirit:referenceId="MODELPARAM_VALUE.C_PROTOCOL_PLL_3">11</spirit:configurableElementValue>
-        <spirit:configurableElementValue spirit:referenceId="MODELPARAM_VALUE.C_PROTOCOL_QUAD0">Custom_1_/_25.625_Gbps</spirit:configurableElementValue>
-        <spirit:configurableElementValue spirit:referenceId="MODELPARAM_VALUE.C_PROTOCOL_QUAD1">Custom_1_/_25.625_Gbps</spirit:configurableElementValue>
+        <spirit:configurableElementValue spirit:referenceId="MODELPARAM_VALUE.C_PROTOCOL_QUAD0">Custom_1_/_25.78125_Gbps</spirit:configurableElementValue>
+        <spirit:configurableElementValue spirit:referenceId="MODELPARAM_VALUE.C_PROTOCOL_QUAD1">Custom_1_/_25.78125_Gbps</spirit:configurableElementValue>
         <spirit:configurableElementValue spirit:referenceId="MODELPARAM_VALUE.C_PROTOCOL_QUAD10">None</spirit:configurableElementValue>
         <spirit:configurableElementValue spirit:referenceId="MODELPARAM_VALUE.C_PROTOCOL_QUAD11">None</spirit:configurableElementValue>
         <spirit:configurableElementValue spirit:referenceId="MODELPARAM_VALUE.C_PROTOCOL_QUAD12">None</spirit:configurableElementValue>
@@ -362,7 +362,7 @@
         <spirit:configurableElementValue spirit:referenceId="MODELPARAM_VALUE.C_PROTOCOL_QUAD_COUNT_1">2</spirit:configurableElementValue>
         <spirit:configurableElementValue spirit:referenceId="MODELPARAM_VALUE.C_PROTOCOL_QUAD_COUNT_2">0</spirit:configurableElementValue>
         <spirit:configurableElementValue spirit:referenceId="MODELPARAM_VALUE.C_PROTOCOL_QUAD_COUNT_3">0</spirit:configurableElementValue>
-        <spirit:configurableElementValue spirit:referenceId="MODELPARAM_VALUE.C_PROTOCOL_REFCLK_FREQUENCY_1">156.25</spirit:configurableElementValue>
+        <spirit:configurableElementValue spirit:referenceId="MODELPARAM_VALUE.C_PROTOCOL_REFCLK_FREQUENCY_1">322.265625</spirit:configurableElementValue>
         <spirit:configurableElementValue spirit:referenceId="MODELPARAM_VALUE.C_PROTOCOL_REFCLK_FREQUENCY_2">100</spirit:configurableElementValue>
         <spirit:configurableElementValue spirit:referenceId="MODELPARAM_VALUE.C_PROTOCOL_REFCLK_FREQUENCY_3">100</spirit:configurableElementValue>
         <spirit:configurableElementValue spirit:referenceId="MODELPARAM_VALUE.C_PROTOCOL_VALUE_QUAD0">01</spirit:configurableElementValue>
@@ -961,8 +961,8 @@
         <spirit:configurableElementValue spirit:referenceId="MODELPARAM_VALUE.C_TXSYSCLKSEL_Q7">&quot;00&quot;</spirit:configurableElementValue>
         <spirit:configurableElementValue spirit:referenceId="MODELPARAM_VALUE.C_TXSYSCLKSEL_Q8">&quot;00&quot;</spirit:configurableElementValue>
         <spirit:configurableElementValue spirit:referenceId="MODELPARAM_VALUE.C_TXSYSCLKSEL_Q9">&quot;00&quot;</spirit:configurableElementValue>
-        <spirit:configurableElementValue spirit:referenceId="MODELPARAM_VALUE.C_TX_RX_LINERATE_Q0">25.625</spirit:configurableElementValue>
-        <spirit:configurableElementValue spirit:referenceId="MODELPARAM_VALUE.C_TX_RX_LINERATE_Q1">25.625</spirit:configurableElementValue>
+        <spirit:configurableElementValue spirit:referenceId="MODELPARAM_VALUE.C_TX_RX_LINERATE_Q0">25.78125</spirit:configurableElementValue>
+        <spirit:configurableElementValue spirit:referenceId="MODELPARAM_VALUE.C_TX_RX_LINERATE_Q1">25.78125</spirit:configurableElementValue>
         <spirit:configurableElementValue spirit:referenceId="MODELPARAM_VALUE.C_TX_RX_LINERATE_Q10">3.125</spirit:configurableElementValue>
         <spirit:configurableElementValue spirit:referenceId="MODELPARAM_VALUE.C_TX_RX_LINERATE_Q11">3.125</spirit:configurableElementValue>
         <spirit:configurableElementValue spirit:referenceId="MODELPARAM_VALUE.C_TX_RX_LINERATE_Q12">3.125</spirit:configurableElementValue>
@@ -1087,14 +1087,14 @@
         <spirit:configurableElementValue spirit:referenceId="PARAM_VALUE.C_PROTOCOL_DATAWIDTH_1">80</spirit:configurableElementValue>
         <spirit:configurableElementValue spirit:referenceId="PARAM_VALUE.C_PROTOCOL_DATAWIDTH_2">80</spirit:configurableElementValue>
         <spirit:configurableElementValue spirit:referenceId="PARAM_VALUE.C_PROTOCOL_DATAWIDTH_3">80</spirit:configurableElementValue>
-        <spirit:configurableElementValue spirit:referenceId="PARAM_VALUE.C_PROTOCOL_MAXLINERATE_1">25.625</spirit:configurableElementValue>
+        <spirit:configurableElementValue spirit:referenceId="PARAM_VALUE.C_PROTOCOL_MAXLINERATE_1">25.78125</spirit:configurableElementValue>
         <spirit:configurableElementValue spirit:referenceId="PARAM_VALUE.C_PROTOCOL_MAXLINERATE_2">5</spirit:configurableElementValue>
         <spirit:configurableElementValue spirit:referenceId="PARAM_VALUE.C_PROTOCOL_MAXLINERATE_3">5</spirit:configurableElementValue>
         <spirit:configurableElementValue spirit:referenceId="PARAM_VALUE.C_PROTOCOL_PLL_1">QPLL0</spirit:configurableElementValue>
         <spirit:configurableElementValue spirit:referenceId="PARAM_VALUE.C_PROTOCOL_PLL_2">QPLL0</spirit:configurableElementValue>
         <spirit:configurableElementValue spirit:referenceId="PARAM_VALUE.C_PROTOCOL_PLL_3">QPLL0</spirit:configurableElementValue>
-        <spirit:configurableElementValue spirit:referenceId="PARAM_VALUE.C_PROTOCOL_QUAD0">Custom_1_/_25.625_Gbps</spirit:configurableElementValue>
-        <spirit:configurableElementValue spirit:referenceId="PARAM_VALUE.C_PROTOCOL_QUAD1">Custom_1_/_25.625_Gbps</spirit:configurableElementValue>
+        <spirit:configurableElementValue spirit:referenceId="PARAM_VALUE.C_PROTOCOL_QUAD0">Custom_1_/_25.78125_Gbps</spirit:configurableElementValue>
+        <spirit:configurableElementValue spirit:referenceId="PARAM_VALUE.C_PROTOCOL_QUAD1">Custom_1_/_25.78125_Gbps</spirit:configurableElementValue>
         <spirit:configurableElementValue spirit:referenceId="PARAM_VALUE.C_PROTOCOL_QUAD10">None</spirit:configurableElementValue>
         <spirit:configurableElementValue spirit:referenceId="PARAM_VALUE.C_PROTOCOL_QUAD11">None</spirit:configurableElementValue>
         <spirit:configurableElementValue spirit:referenceId="PARAM_VALUE.C_PROTOCOL_QUAD12">None</spirit:configurableElementValue>
@@ -1132,7 +1132,7 @@
         <spirit:configurableElementValue spirit:referenceId="PARAM_VALUE.C_PROTOCOL_QUAD_COUNT_1">2</spirit:configurableElementValue>
         <spirit:configurableElementValue spirit:referenceId="PARAM_VALUE.C_PROTOCOL_QUAD_COUNT_2">0</spirit:configurableElementValue>
         <spirit:configurableElementValue spirit:referenceId="PARAM_VALUE.C_PROTOCOL_QUAD_COUNT_3">0</spirit:configurableElementValue>
-        <spirit:configurableElementValue spirit:referenceId="PARAM_VALUE.C_PROTOCOL_REFCLK_FREQUENCY_1">156.25</spirit:configurableElementValue>
+        <spirit:configurableElementValue spirit:referenceId="PARAM_VALUE.C_PROTOCOL_REFCLK_FREQUENCY_1">322.265625</spirit:configurableElementValue>
         <spirit:configurableElementValue spirit:referenceId="PARAM_VALUE.C_PROTOCOL_REFCLK_FREQUENCY_2">100</spirit:configurableElementValue>
         <spirit:configurableElementValue spirit:referenceId="PARAM_VALUE.C_PROTOCOL_REFCLK_FREQUENCY_3">100</spirit:configurableElementValue>
         <spirit:configurableElementValue spirit:referenceId="PARAM_VALUE.C_REFCLK_SOURCE_QUAD_0">MGTREFCLK0_127</spirit:configurableElementValue>
@@ -1222,7 +1222,7 @@
         <spirit:configurableElementValue spirit:referenceId="PARAM_VALUE.C_USE_MDM_Q8">0</spirit:configurableElementValue>
         <spirit:configurableElementValue spirit:referenceId="PARAM_VALUE.C_USE_MDM_Q9">0</spirit:configurableElementValue>
         <spirit:configurableElementValue spirit:referenceId="PARAM_VALUE.Component_Name">ibert_ultrascale_gty_0</spirit:configurableElementValue>
-        <spirit:configurableElementValue spirit:referenceId="PARAM_VALUE.INS_LOSS_NYQ_1">20</spirit:configurableElementValue>
+        <spirit:configurableElementValue spirit:referenceId="PARAM_VALUE.INS_LOSS_NYQ_1">12</spirit:configurableElementValue>
         <spirit:configurableElementValue spirit:referenceId="PARAM_VALUE.INS_LOSS_NYQ_2">20</spirit:configurableElementValue>
         <spirit:configurableElementValue spirit:referenceId="PARAM_VALUE.INS_LOSS_NYQ_3">20</spirit:configurableElementValue>
         <spirit:configurableElementValue spirit:referenceId="PARAM_VALUE.RX_COUPLING_1">AC</spirit:configurableElementValue>
@@ -1279,6 +1279,7 @@
             <xilinx:configElementInfo xilinx:referenceId="PARAM_VALUE.C_SYSCLK_FREQUENCY" xilinx:valueSource="user"/>
             <xilinx:configElementInfo xilinx:referenceId="PARAM_VALUE.C_SYSCLK_IO_PIN_LOC_P" xilinx:valueSource="user"/>
             <xilinx:configElementInfo xilinx:referenceId="PARAM_VALUE.C_SYSCLK_IO_PIN_STD" xilinx:valueSource="user"/>
+            <xilinx:configElementInfo xilinx:referenceId="PARAM_VALUE.INS_LOSS_NYQ_1" xilinx:valueSource="user"/>
           </xilinx:configElementInfos>
           <xilinx:boundaryDescriptionInfo>
             <xilinx:boundaryDescription xilinx:boundaryDescriptionJSON="{&quot;ip_boundary&quot;:{&quot;ports&quot;:{&quot;clk&quot;:[{&quot;direction&quot;:&quot;in&quot;,&quot;physical_left&quot;:&quot;0&quot;,&quot;physical_right&quot;:&quot;0&quot;,&quot;is_vector&quot;:&quot;false&quot;}],&quot;gtnorthrefclk00_i&quot;:[{&quot;direction&quot;:&quot;in&quot;,&quot;physical_left&quot;:&quot;1&quot;,&quot;physical_right&quot;:&quot;0&quot;,&quot;is_vector&quot;:&quot;true&quot;}],&quot;gtnorthrefclk01_i&quot;:[{&quot;direction&quot;:&quot;in&quot;,&quot;physical_left&quot;:&quot;1&quot;,&quot;physical_right&quot;:&quot;0&quot;,&quot;is_vector&quot;:&quot;true&quot;}],&quot;gtnorthrefclk0_i&quot;:[{&quot;direction&quot;:&quot;in&quot;,&quot;physical_left&quot;:&quot;1&quot;,&quot;physical_right&quot;:&quot;0&quot;,&quot;is_vector&quot;:&quot;true&quot;}],&quot;gtnorthrefclk10_i&quot;:[{&quot;direction&quot;:&quot;in&quot;,&quot;physical_left&quot;:&quot;1&quot;,&quot;physical_right&quot;:&quot;0&quot;,&quot;is_vector&quot;:&quot;true&quot;}],&quot;gtnorthrefclk11_i&quot;:[{&quot;direction&quot;:&quot;in&quot;,&quot;physical_left&quot;:&quot;1&quot;,&quot;physical_right&quot;:&quot;0&quot;,&quot;is_vector&quot;:&quot;true&quot;}],&quot;gtnorthrefclk1_i&quot;:[{&quot;direction&quot;:&quot;in&quot;,&quot;physical_left&quot;:&quot;1&quot;,&quot;physical_right&quot;:&quot;0&quot;,&quot;is_vector&quot;:&quot;true&quot;}],&quot;gtrefclk00_i&quot;:[{&quot;direction&quot;:&quot;in&quot;,&quot;physical_left&quot;:&quot;1&quot;,&quot;physical_right&quot;:&quot;0&quot;,&quot;is_vector&quot;:&quot;true&quot;}],&quot;gtrefclk01_i&quot;:[{&quot;direction&quot;:&quot;in&quot;,&quot;physical_left&quot;:&quot;1&quot;,&quot;physical_right&quot;:&quot;0&quot;,&quot;is_vector&quot;:&quot;true&quot;}],&quot;gtrefclk0_i&quot;:[{&quot;direction&quot;:&quot;in&quot;,&quot;physical_left&quot;:&quot;1&quot;,&quot;physical_right&quot;:&quot;0&quot;,&quot;is_vector&quot;:&quot;tru
